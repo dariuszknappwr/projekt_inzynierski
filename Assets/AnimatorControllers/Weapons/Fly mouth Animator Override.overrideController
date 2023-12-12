@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Fly mouth Animator Override
+  m_Controller: {fileID: 9100000, guid: 31bc71b7da4083d438a96df0978285cc, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -3730209407256190404, guid: b86c7dfc3857a0747ba2da765aa1d39a, type: 3}
+    m_OverrideClip: {fileID: -3730209407256190404, guid: b86c7dfc3857a0747ba2da765aa1d39a, type: 3}
+  - m_OriginalClip: {fileID: -3490876375720747330, guid: b86c7dfc3857a0747ba2da765aa1d39a, type: 3}
+    m_OverrideClip: {fileID: -3490876375720747330, guid: b86c7dfc3857a0747ba2da765aa1d39a, type: 3}
